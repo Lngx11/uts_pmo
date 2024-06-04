@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1047675540366</string>
+    <string name="google_api_key" translatable="false">AIzaSyApGuGpeH2LoChfTzQIL1J0_ZkNXM0lqvw</string>
+    <string name="google_app_id" translatable="false">1:1047675540366:android:f9247271d27f064c4b0adf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApGuGpeH2LoChfTzQIL1J0_ZkNXM0lqvw</string>
+    <string name="google_storage_bucket" translatable="false">latihan-49b61.appspot.com</string>
+    <string name="project_id" translatable="false">latihan-49b61</string>
+</resources>

@@ -1,0 +1,1 @@
+ D:\\uts_pmo\\.dart_tool\\flutter_build\\7671ed7e6b59bce86d78fcc725f0700e\\native_assets.yaml: 
